@@ -1,3 +1,3 @@
 # lights_out
 
- A lights out game web app
+ A simple lights out game web app built with React
